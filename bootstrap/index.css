@@ -1,0 +1,10 @@
+.bg-light {
+  /* background-color: orangered !important; */
+  background: rgb(181, 85, 5);
+  background: linear-gradient(
+    90deg,
+    rgba(181, 85, 5, 1) 0%,
+    rgba(121, 97, 9, 1) 35%,
+    rgba(255, 0, 39, 1) 93%
+  );
+}
